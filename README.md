@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiteshyadav1947&label=Profile%20views&color=0e75b6&style=flat" alt="jiteshyadav1947" /> </p>
 
-- 🌱 I’m currently learning **Data Science,AI**
+- 🌱 I’m currently learning **Data Analytics,AI**
 
 - 📫 How to reach me **jiteshyadv1947@gmail.com**
 
